@@ -79,3 +79,6 @@ crashlytics-build.properties
 
 # Unity Package Manager cache
 /Packages/*/PackageCache/
+
+# Ignore video files
+/Assets/Videos/*.mp4
